@@ -1,6 +1,6 @@
 # AI Tic Tac Toe CLI game
 
-# Run and Installation
+## Run and Installation
 ```sh
 python -m venv .venv 
 source ./.venv/bin/activate 
